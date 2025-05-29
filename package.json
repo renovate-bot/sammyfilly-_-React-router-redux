@@ -77,7 +77,7 @@
     "redux": "^3.0.4",
     "redux-devtools": "^3.0.0",
     "redux-devtools-dock-monitor": "^1.0.1",
-    "redux-devtools-log-monitor": "^1.0.1",
+    "redux-devtools-log-monitor": "^2.0.0",
     "webpack": "^2.2.1"
   }
 }
