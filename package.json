@@ -53,7 +53,7 @@
     "babel-preset-stage-1": "^6.3.13",
     "babel-register": "^6.4.3",
     "eslint": "^3.15.0",
-    "eslint-config-react-app": "^0.5.0",
+    "eslint-config-react-app": "^7.0.0",
     "eslint-plugin-flowtype": "^2.29.2",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
