@@ -58,7 +58,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.8.0",
-    "expect": "^1.13.0",
+    "expect": "^30.0.0",
     "history": "^3.0.0",
     "isparta": "^4.0.0",
     "isparta-loader": "^2.0.0",
